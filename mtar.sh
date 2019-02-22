@@ -34,3 +34,11 @@ tar -zcvf ${file_name} \
 	-C ${v_6000_path} ${v_6000_file}\
 	-C ${h_5000_path} ${h_5000_file}\
 	-C ${v_5000_path} ${v_5000_file} 
+
+
+if [ -f ${file_name} ]
+then
+	mv ${file_name} ~/work/
+else
+	echo "文件不存在"
+fi
