@@ -1,0 +1,394 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 225756  9656 ?        Ss   2月11   0:45 /lib/systemd/systemd --system --deserialize 36
+root         2  0.0  0.0      0     0 ?        S    2月11   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        I<   2月11   0:00 [mm_percpu_wq]
+root         7  0.0  0.0      0     0 ?        S    2月11   0:03 [ksoftirqd/0]
+root         8  0.0  0.0      0     0 ?        I    2月11   4:14 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        I    2月11   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    2月11   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/1]
+root        14  0.0  0.0      0     0 ?        S    2月11   0:00 [watchdog/1]
+root        15  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/1]
+root        16  0.0  0.0      0     0 ?        S    2月11   0:01 [ksoftirqd/1]
+root        18  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/1:0H]
+root        19  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/2]
+root        20  0.0  0.0      0     0 ?        S    2月11   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    2月11   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/3]
+root        26  0.0  0.0      0     0 ?        S    2月11   0:01 [watchdog/3]
+root        27  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/3]
+root        28  0.0  0.0      0     0 ?        S    2月11   0:00 [ksoftirqd/3]
+root        30  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/3:0H]
+root        31  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/4]
+root        32  0.0  0.0      0     0 ?        S    2月11   0:00 [watchdog/4]
+root        33  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/4]
+root        34  0.0  0.0      0     0 ?        S    2月11   0:00 [ksoftirqd/4]
+root        36  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/4:0H]
+root        37  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/5]
+root        38  0.0  0.0      0     0 ?        S    2月11   0:00 [watchdog/5]
+root        39  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/5]
+root        40  0.0  0.0      0     0 ?        S    2月11   0:00 [ksoftirqd/5]
+root        42  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/5:0H]
+root        43  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/6]
+root        44  0.0  0.0      0     0 ?        S    2月11   0:00 [watchdog/6]
+root        45  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/6]
+root        46  0.0  0.0      0     0 ?        S    2月11   0:02 [ksoftirqd/6]
+root        48  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/6:0H]
+root        49  0.0  0.0      0     0 ?        S    2月11   0:00 [cpuhp/7]
+root        50  0.0  0.0      0     0 ?        S    2月11   0:01 [watchdog/7]
+root        51  0.0  0.0      0     0 ?        S    2月11   0:00 [migration/7]
+root        52  0.0  0.0      0     0 ?        S    2月11   0:01 [ksoftirqd/7]
+root        54  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/7:0H]
+root        55  0.0  0.0      0     0 ?        S    2月11   0:00 [kdevtmpfs]
+root        56  0.0  0.0      0     0 ?        I<   2月11   0:00 [netns]
+root        57  0.0  0.0      0     0 ?        S    2月11   0:00 [rcu_tasks_kthre]
+root        58  0.0  0.0      0     0 ?        S    2月11   0:00 [kauditd]
+root        62  0.0  0.0      0     0 ?        S    2月11   0:00 [khungtaskd]
+root        63  0.0  0.0      0     0 ?        S    2月11   0:00 [oom_reaper]
+root        64  0.0  0.0      0     0 ?        I<   2月11   0:00 [writeback]
+root        65  0.0  0.0      0     0 ?        S    2月11   0:00 [kcompactd0]
+root        66  0.0  0.0      0     0 ?        SN   2月11   0:00 [ksmd]
+root        67  0.0  0.0      0     0 ?        SN   2月11   0:00 [khugepaged]
+root        68  0.0  0.0      0     0 ?        I<   2月11   0:00 [crypto]
+root        69  0.0  0.0      0     0 ?        I<   2月11   0:00 [kintegrityd]
+root        70  0.0  0.0      0     0 ?        I<   2月11   0:00 [kblockd]
+root        75  0.0  0.0      0     0 ?        I<   2月11   0:00 [ata_sff]
+root        76  0.0  0.0      0     0 ?        I<   2月11   0:00 [md]
+root        77  0.0  0.0      0     0 ?        I<   2月11   0:00 [edac-poller]
+root        78  0.0  0.0      0     0 ?        I<   2月11   0:00 [devfreq_wq]
+root        79  0.0  0.0      0     0 ?        I<   2月11   0:00 [watchdogd]
+root        82  0.0  0.0      0     0 ?        S    2月11   0:14 [kswapd0]
+root        83  0.0  0.0      0     0 ?        S    2月11   0:00 [ecryptfs-kthrea]
+root       125  0.0  0.0      0     0 ?        I<   2月11   0:00 [kthrotld]
+root       126  0.0  0.0      0     0 ?        I<   2月11   0:00 [acpi_thermal_pm]
+root       130  0.0  0.0      0     0 ?        I<   2月11   0:00 [ipv6_addrconf]
+root       139  0.0  0.0      0     0 ?        I<   2月11   0:00 [kstrp]
+root       160  0.0  0.0      0     0 ?        I<   2月11   0:00 [charger_manager]
+root       219  0.0  0.0      0     0 ?        S    2月11   0:00 [scsi_eh_0]
+root       220  0.0  0.0      0     0 ?        I<   2月11   0:00 [scsi_tmf_0]
+root       221  0.0  0.0      0     0 ?        S    2月11   0:00 [scsi_eh_1]
+root       222  0.0  0.0      0     0 ?        I<   2月11   0:00 [scsi_tmf_1]
+root       223  0.0  0.0      0     0 ?        S    2月11   0:00 [scsi_eh_2]
+root       224  0.0  0.0      0     0 ?        I<   2月11   0:00 [scsi_tmf_2]
+root       225  0.0  0.0      0     0 ?        S    2月11   0:00 [scsi_eh_3]
+root       226  0.0  0.0      0     0 ?        I<   2月11   0:00 [scsi_tmf_3]
+root       227  0.0  0.0      0     0 ?        S    2月11   0:00 [scsi_eh_4]
+root       228  0.0  0.0      0     0 ?        I<   2月11   0:00 [scsi_tmf_4]
+root       229  0.0  0.0      0     0 ?        S    2月11   0:00 [scsi_eh_5]
+root       230  0.0  0.0      0     0 ?        I<   2月11   0:00 [scsi_tmf_5]
+root       238  0.0  0.0      0     0 ?        S    2月11   0:00 [nvidia-modeset]
+root       242  0.0  0.0      0     0 ?        I<   2月11   0:11 [kworker/6:1H]
+root       262  0.0  0.0      0     0 ?        S    2月11   0:24 [jbd2/sdb2-8]
+root       263  0.0  0.0      0     0 ?        I<   2月11   0:00 [ext4-rsv-conver]
+root       315  0.0  0.0      0     0 ?        I<   2月11   0:00 [rpciod]
+root       316  0.0  0.0      0     0 ?        I<   2月11   0:00 [xprtiod]
+root       325  0.0  0.0  23920   172 ?        Ss   2月11   0:00 /usr/sbin/blkmapd
+root       327  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/0:1H]
+root       328  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/1:1H]
+root       332  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop0]
+root       336  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop1]
+root       337  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/7:1H]
+root       339  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop2]
+root       340  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop3]
+root       343  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop4]
+root       344  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop5]
+root       345  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/5:1H]
+root       346  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop6]
+root       349  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/2:1H]
+root       352  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop8]
+root       353  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop9]
+root       355  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop10]
+root       356  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/4:1H]
+root       357  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop11]
+root       362  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop12]
+root       368  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop14]
+root       369  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop15]
+root       370  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop16]
+root       371  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop17]
+root       374  0.0  0.0      0     0 ?        I<   2月11   0:00 [kworker/3:1H]
+root       377  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop18]
+root       378  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop19]
+root       380  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop21]
+root       381  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop22]
+root       414  0.0  0.0      0     0 ?        S    2月11   0:00 [UVM global queu]
+root       415  0.0  0.0      0     0 ?        S    2月11   0:00 [UVM Tools Event]
+root       426  0.0  0.0      0     0 ?        S    2月11   0:00 [irq/27-mei_me]
+root       518  0.0  0.0      0     0 ?        I<   2月11   0:00 [led_workqueue]
+root       690  0.0  0.0  23748   196 ?        Ss   2月11   0:00 /usr/sbin/rpc.idmapd
+root       739  0.0  0.0  47600  3224 ?        Ss   2月11   0:00 /sbin/rpcbind -f -w
+root       822  0.0  0.0 177620 13156 ?        Ssl  2月11   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root       823  0.0  0.0 427256  6152 ?        Ssl  2月11   0:00 /usr/sbin/ModemManager
+syslog     825  0.0  0.0 263036  4208 ?        Ssl  2月11   0:00 /usr/sbin/rsyslogd -n
+root       827  0.0  0.0 294972  6468 ?        Ssl  2月11   0:07 /usr/lib/accountsservice/accounts-daemon
+root       831  0.0  0.0   4552   808 ?        Ss   2月11   0:06 /usr/sbin/acpid
+root       832  0.0  0.0 186960  6204 ?        Ssl  2月11   0:37 /usr/sbin/thermald --no-daemon --dbus-enable
+root       833  0.0  0.0  38428  2808 ?        Ss   2月11   0:00 /usr/sbin/cron -f
+message+   834  0.0  0.0  52944  6804 ?        Ss   2月11   1:05 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       843  0.0  0.0  22584  3024 ?        Ss   2月11   0:01 /sbin/mount.ntfs /dev/sda2 /home/sws/material -o rw,nosuid,nodev
+root       845  0.0  0.0  26892  7152 ?        Ss   2月11   0:06 /sbin/mount.ntfs /dev/sda1 /home/sws/code -o rw,nosuid,nodev
+root       849  0.0  0.0 110468  3524 ?        Ssl  2月11   0:37 /usr/sbin/irqbalance --foreground
+root       852  0.0  0.0  44752  3016 ?        Ss   2月11   0:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       853  0.0  0.0 492400 13896 ?        Ssl  2月11   0:09 /usr/sbin/NetworkManager --no-daemon
+root       857  0.0  0.0  70728  4892 ?        Ss   2月11   0:02 /lib/systemd/systemd-logind
+root       860  0.0  0.0 503920 10516 ?        Ssl  2月11   1:34 /usr/lib/udisks2/udisksd
+root       865  0.0  0.0 304336 10012 ?        Ssl  2月11   0:05 /usr/lib/policykit-1/polkitd --no-debug
+root       903  0.0  0.0  24692  2460 ?        Ss   2月11   0:19 /usr/bin/vmware-usbarbitrator
+root       935  0.0  0.0  47832  4820 ?        Ss   2月11   0:00 /usr/sbin/rpc.mountd --manage-gids
+root       939  0.0  0.0      0     0 ?        S    2月11   0:00 [lockd]
+root       942  0.0  0.0      0     0 ?        S    2月11   0:00 [nfsd]
+root       943  0.0  0.0      0     0 ?        S    2月11   0:00 [nfsd]
+root       944  0.0  0.0      0     0 ?        S    2月11   0:00 [nfsd]
+root       945  0.0  0.0      0     0 ?        S    2月11   0:00 [nfsd]
+root       946  0.0  0.0      0     0 ?        S    2月11   0:00 [nfsd]
+root       947  0.0  0.0      0     0 ?        S    2月11   0:01 [nfsd]
+root       948  0.0  0.0      0     0 ?        S    2月11   0:03 [nfsd]
+root       949  0.0  0.0      0     0 ?        S    2月11   0:06 [nfsd]
+root       964  0.0  0.0 308292  7164 ?        Ssl  2月11   0:00 /usr/sbin/gdm3
+root      1017  0.0  0.0 322396  7232 ?        Ssl  2月11   0:00 /usr/lib/upower/upowerd
+root      1079  0.0  0.0 261772  7000 ?        Sl   2月11   0:00 gdm-session-worker [pam/gdm-launch-environment]
+gdm       1084  0.0  0.0  77104  6252 ?        Ss   2月11   0:00 /lib/systemd/systemd --user
+gdm       1085  0.0  0.0 114048  2664 ?        S    2月11   0:00 (sd-pam)
+gdm       1096  0.0  0.0 212244  5464 tty1     Ssl+ 2月11   0:00 /usr/lib/gdm3/gdm-x-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+root      1098  0.0  0.1 249316 31632 tty1     Sl+  2月11   0:21 /usr/lib/xorg/Xorg vt1 -displayfd 3 -auth /run/user/121/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+root      1101  0.4  0.0      0     0 ?        S    2月11  56:55 [irq/28-nvidia]
+root      1102  0.0  0.0      0     0 ?        S    2月11   0:00 [nvidia]
+nvidia-+  1105  0.0  0.0  17312  1460 ?        Ss   2月11   0:00 /usr/bin/nvidia-persistenced --user nvidia-persistenced --no-persistence-mode --verbose
+gdm       1111  0.0  0.0  50348  4464 ?        Ss   2月11   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm       1117  0.0  0.0 559360 10592 tty1     Sl+  2月11   0:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm       1119  0.0  0.0 349284  5784 ?        Ssl  2月11   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+gdm       1124  0.0  0.0  49928  3508 ?        S    2月11   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm       1126  0.0  0.0 220772  6320 ?        Sl   2月11   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+gdm       1135  0.0  0.9 3779724 154244 tty1   Sl+  2月11   3:56 /usr/bin/gnome-shell
+gdm       1143  0.0  0.0 1227592 7688 ?        Ssl  2月11   0:00 /usr/bin/pulseaudio --daemonize=no
+rtkit     1144  0.0  0.0 183504  2924 ?        SNsl 2月11   0:05 /usr/lib/rtkit/rtkit-daemon
+root      1159  0.0  0.0 272572  9444 ?        Ss   2月11   0:21 /usr/sbin/nmbd --foreground --no-process-group
+whoopsie  1162  0.0  0.0 388448 10976 ?        Ssl  2月11   0:00 /usr/bin/whoopsie -f
+kernoops  1167  0.0  0.0  56936   416 ?        Ss   2月11   0:11 /usr/sbin/kerneloops --test
+kernoops  1178  0.0  0.0  56936   424 ?        Ss   2月11   0:11 /usr/sbin/kerneloops
+root      1315  0.0  0.0 363808 13364 ?        Ss   2月11   0:02 /usr/sbin/smbd --foreground --no-process-group
+root      1322  0.0  0.0 352044  4696 ?        S    2月11   0:00 /usr/sbin/smbd --foreground --no-process-group
+root      1323  0.0  0.0 352068  3884 ?        S    2月11   0:00 /usr/sbin/smbd --foreground --no-process-group
+root      1324  0.0  0.0 363928 10436 ?        S    2月11   0:01 /usr/sbin/smbd --foreground --no-process-group
+root      1370  0.0  0.0 265676  8244 ?        Sl   2月18   0:00 gdm-session-worker [pam/gdm-password]
+root      1427  0.0  0.0 265676  8292 ?        Sl   2月18   0:00 gdm-session-worker [pam/gdm-password]
+gdm       2918  0.0  0.0 435444  6944 tty1     Sl   2月11   0:00 ibus-daemon --xim --panel disable
+gdm       2921  0.0  0.0 280980  4800 tty1     Sl   2月11   0:00 /usr/lib/ibus/ibus-dconf
+gdm       2924  0.0  0.0 344648 15956 tty1     Sl   2月11   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm       2926  0.0  0.0 278792  4928 ?        Sl   2月11   0:00 /usr/lib/ibus/ibus-portal
+root      2972  0.0  0.0 297032  6388 ?        Ssl  2月11   0:00 /usr/lib/x86_64-linux-gnu/boltd
+root      2976  0.0  0.5 523696 95892 ?        Ssl  2月11   0:33 /usr/lib/packagekit/packagekitd
+gdm       2990  0.0  0.1 495276 16396 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm       2993  0.0  0.0 278436  5120 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm       2995  0.0  0.0 344292 15656 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm       2996  0.0  0.1 680072 19144 tty1     Sl+  2月11   6:24 /usr/lib/gnome-settings-daemon/gsd-color
+gdm       2999  0.0  0.0 393852  9680 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm       3001  0.0  0.0 283888  5048 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm       3002  0.0  0.0 498640 15764 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm       3003  0.0  0.1 1014876 17380 tty1    Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm       3011  0.0  0.0 202144  3920 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm       3018  0.0  0.1 517916 16988 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+gdm       3026  0.0  0.0 267152  7920 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm       3027  0.0  0.0 202164  3864 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm       3029  0.0  0.0 275880  4348 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm       3031  0.0  0.0 305388  6980 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm       3040  0.0  0.0 378220  6132 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm       3045  0.0  0.0 333136  6584 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm       3048  0.0  0.0 429156 16180 tty1     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+colord    3066  0.0  0.0 325360 12864 ?        Ssl  2月11   0:00 /usr/lib/colord/colord
+gdm       3201  0.0  0.0 205120  5748 tty1     Sl   2月11   0:00 /usr/lib/ibus/ibus-engine-simple
+root      3245  0.0  0.0 193952 11064 ?        Ss   00:07   0:04 /usr/sbin/cupsd -l
+root      3246  0.0  0.0 307016 12740 ?        Ssl  00:07   0:18 /usr/sbin/cups-browsed
+lp        3298  0.0  0.0  86412  6008 ?        S    00:07   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp        3299  0.0  0.0  86412  5912 ?        S    00:07   0:00 /usr/lib/cups/notifier/dbus dbus://
+sws       3510  0.0  0.1 766604 21300 ?        SLl  2月18   0:04 /usr/lib/gvfs/gvfsd-smb --spawner :1.10 /org/gtk/gvfs/exec_spaw/6
+root      3949  0.0  0.0 417420 10608 ?        Sl   2月11   0:00 gdm-session-worker [pam/gdm-password]
+root      4029  0.0  0.0 176204   980 ?        Ssl  2月11   0:00 /usr/lib/vmware/bin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root      4065  0.0  0.0   7184   188 ?        Ss   2月11   0:00 /usr/bin/vmnet-bridge -s 12 -d /var/run/vmnet-bridge-0.pid -n 0
+sws       4072  0.0  0.0  77252  6572 ?        Ss   2月11   0:01 /lib/systemd/systemd --user
+sws       4073  0.0  0.0 114048  2688 ?        S    2月11   0:00 (sd-pam)
+sws       4086  0.0  0.0 437072  8792 ?        SLl  2月11   0:02 /usr/bin/gnome-keyring-daemon --daemonize --login
+sws       4090  0.0  0.0 212244  5628 tty2     Ssl+ 2月11   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu-communitheme /snap/communitheme/current/session
+root      4092  0.5  0.6 495408 107772 tty2    Sl+  2月11  75:15 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+root      4094  0.0  0.0   7156   184 ?        Ss   2月11   0:00 /usr/bin/vmnet-netifup -s 12 -d /var/run/vmnet-netifup-vmnet1.pid /dev/vmnet1 vmnet1
+root      4106  0.0  0.0  19344  5624 ?        Ss   2月11   0:00 /usr/bin/vmnet-dhcpd -s 12 -cf /etc/vmware/vmnet1/dhcpd/dhcpd.conf -lf /etc/vmware/vmnet1/dhcpd/dhcpd.leases -pf /var/run/vmnet-dhcpd-vmnet1.pid vmnet1
+root      4109  0.0  0.0  14172  1816 ?        S    2月11   0:00 /usr/bin/vmnet-natd -s 12 -m /etc/vmware/vmnet8/nat.mac -c /etc/vmware/vmnet8/nat/nat.conf
+root      4111  0.0  0.0   7156   180 ?        Ss   2月11   0:00 /usr/bin/vmnet-netifup -s 12 -d /var/run/vmnet-netifup-vmnet8.pid /dev/vmnet8 vmnet8
+root      4123  0.0  0.0  19344  5620 ?        Ss   2月11   0:00 /usr/bin/vmnet-dhcpd -s 12 -cf /etc/vmware/vmnet8/dhcpd/dhcpd.conf -lf /etc/vmware/vmnet8/dhcpd/dhcpd.leases -pf /var/run/vmnet-dhcpd-vmnet8.pid vmnet8
+root      4142  0.0  0.0  23356   456 ?        Ss   2月11   0:17 /usr/sbin/vmware-authdlauncher
+sws       4151  0.0  0.0  51504  5916 ?        Ss   2月11   1:14 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+sws       4157  0.0  0.0   4628   720 tty2     S+   2月11   0:00 /bin/sh /snap/communitheme/current/session
+sws       4185  0.0  0.5 444608 90156 ?        Sl   2月11   1:07 /usr/bin/fcitx
+sws       4196  0.0  0.0  50192  4012 ?        Ss   2月11   0:16 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf
+root      4201  0.0  0.2 1575936 48868 ?       Sl   2月11   6:01 /usr/lib/vmware/bin/vmware-hostd -a /etc/vmware/hostd/config.xml
+sws       4204  0.0  0.0  27592   216 ?        SN   2月11   0:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-4lpwIb7Z5O,guid=688358d05efa5516e286ae5b5c60d38c 4196
+sws       4252  0.0  0.0  11304   320 ?        Ss   2月11   0:01 /usr/bin/ssh-agent /usr/bin/sogou-session /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu-communitheme /snap/communitheme/current/session
+sws       4261  0.0  0.0  80208  5008 ?        S    2月11   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+sws       4264  0.0  0.0 292200  6276 ?        Ssl  2月11   0:00 /usr/lib/gvfs/gvfsd
+sws       4269  0.0  0.0 416112  4780 ?        Sl   2月11   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+sws       4279  0.0  0.0 475676 16020 ?        S    2月11   1:35 sogou-qimpanel-watchdog
+sws       4296  0.0  0.0 568636 11416 tty2     Sl+  2月11   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+sws       4318  0.0  0.0 349300  5680 ?        Ssl  2月11   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+sws       4323  0.0  0.0  50056  4012 ?        S    2月11   0:07 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+sws       4325  0.0  0.0 220772  6372 ?        Sl   2月11   0:39 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+sws       4332  0.0  0.0      0     0 ?        Z    2月11   0:00 [sh] <defunct>
+sws       4354  2.5  2.6 4112788 426092 tty2   Sl+  2月11 344:57 /usr/bin/gnome-shell
+sws       4386  0.0  0.0 3343776 10776 ?       S<l  2月11   0:11 /usr/bin/pulseaudio --start --log-target=syslog
+sws       4402  0.0  0.6 3374528 102072 ?      Sl   2月11   2:49 sogou-qimpanel
+sws       4465  0.0  0.0 361732  6804 tty2     Sl   2月11   0:00 ibus-daemon --xim --panel disable
+sws       4469  0.0  0.0 280992  5816 tty2     Sl   2月11   0:00 /usr/lib/ibus/ibus-dconf
+sws       4471  0.0  0.1 346768 17156 tty2     Sl   2月11   0:01 /usr/lib/ibus/ibus-x11 --kill-daemon
+sws       4473  0.0  0.0 278924  5144 ?        Sl   2月11   0:00 /usr/lib/ibus/ibus-portal
+sws       4484  0.0  0.0 689888 12676 ?        Sl   2月11   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+sws       4488  0.0  0.0 1372472 16296 ?       Ssl  2月11   0:00 /usr/lib/evolution/evolution-source-registry
+sws       4496  0.0  0.0 774548 14140 ?        Sl   2月11   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+sws       4504  0.0  0.0 188132  5396 ?        Sl   2月11   0:00 /usr/lib/dconf/dconf-service
+sws       4507  0.0  0.0 528316  7864 ?        Ssl  2月11   0:24 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+sws       4520  0.0  0.0 303608  5716 ?        Sl   2月11   0:02 /usr/lib/gnome-online-accounts/goa-identity-service
+sws       4524  0.0  0.0 275972  5408 ?        Ssl  2月11   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+sws       4528  0.0  0.0 378944  6748 ?        Ssl  2月11   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+sws       4533  0.0  0.0 288896  5856 ?        Ssl  2月11   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+sws       4537  0.0  0.0 274176  5360 ?        Ssl  2月11   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+sws       4541  0.0  0.1 519864 18244 tty2     Sl+  2月11   0:02 /usr/lib/gnome-settings-daemon/gsd-power
+sws       4543  0.0  0.0 349728  9580 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+sws       4544  0.0  0.0 423492  5236 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+sws       4545  0.0  0.0 275880  4520 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+sws       4546  0.0  0.0 453124  7772 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+sws       4549  0.0  0.0 451960  6104 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+sws       4557  0.0  0.0 333144  6548 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+sws       4559  0.0  0.1 497356 17848 tty2     Sl+  2月11   0:01 /usr/lib/gnome-settings-daemon/gsd-xsettings
+sws       4563  0.0  0.1 431184 17376 tty2     Sl+  2月11   0:01 /usr/lib/gnome-settings-daemon/gsd-wacom
+sws       4577  0.0  0.1 346428 16568 tty2     Sl+  2月11   0:01 /usr/lib/gnome-settings-daemon/gsd-clipboard
+sws       4580  0.0  0.0 278444  5060 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+sws       4584  0.0  0.0 470020  9384 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+sws       4588  0.0  0.1 680984 19556 tty2     Sl+  2月11   7:16 /usr/lib/gnome-settings-daemon/gsd-color
+sws       4589  0.0  0.1 500752 17392 tty2     Sl+  2月11   0:01 /usr/lib/gnome-settings-daemon/gsd-keyboard
+sws       4591  0.0  0.0 364896  6252 tty2     Sl+  2月11   0:52 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+sws       4595  0.0  0.0 278452  4896 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+sws       4600  0.0  0.1 942956 18408 tty2     Sl+  2月11   0:01 /usr/lib/gnome-settings-daemon/gsd-media-keys
+sws       4629  0.0  0.0 508900 10704 tty2     Sl+  2月11   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+sws       4638  0.0  0.0 271932  6120 tty2     Sl+  2月11   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+sws       4643  0.0  0.3 1202484 53880 tty2    Sl+  2月11   0:07 nautilus-desktop
+sws       4654  0.0  1.3 1892360 228884 tty2   SLl+ 2月11   0:35 /usr/bin/gnome-software --gapplication-service
+sws       4668  0.0  0.0 452120  7616 ?        Sl   2月11   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.10 /org/gtk/gvfs/exec_spaw/0
+sws       4687  0.0  0.3 892464 51864 ?        Ssl  2月11   0:00 /usr/lib/evolution/evolution-calendar-factory
+sws       4698  0.0  0.2 1136188 49100 ?       Sl   2月11   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx4687x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/4687/2
+sws       4699  0.0  0.0 238484  7664 tty2     Sl   2月11   0:00 /usr/lib/ibus/ibus-engine-libpinyin --ibus
+sws       4715  0.0  0.0 732984 13216 ?        Ssl  2月11   0:00 /usr/lib/evolution/evolution-addressbook-factory
+sws       4724  0.0  0.0 1019792 16008 ?       Sl   2月11   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx4715x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/4715/2
+sws       4738  0.0  0.0 204736  5660 ?        Ssl  2月11   0:00 /usr/lib/gvfs/gvfsd-metadata
+root      4743  0.0  0.1 560664 17976 ?        Ssl  2月11   0:15 /usr/lib/fwupd/fwupd
+sws       4900  0.1  0.6 1474692 107360 tty2   Sl+  2月11  16:30 /usr/lib/vmware/bin/vmware
+sws       4941  0.0  0.2 640128 40300 tty2     Sl+  2月11  10:50 /usr/lib/vmware/bin/vmware-tray poweredOn
+sws       5444 44.4 27.9 6749184 4577328 tty2  Sl+  2月11 5942:13 /usr/lib/vmware/bin/vmware-vmx -s vmx.stdio.keep=TRUE -# product=1;name=VMware Workstation;version=15.0.0;buildnumber=10134415;licensename=VMware Workstation;licenseversion=15.0; -@ duplex=3;msgs=ui /home/sws/vmware/Windows 10 x64/Windows 10 x64.vmx
+sws       5475  0.0  0.0  89712  7236 tty2     S+   2月11   0:42 /usr/lib/vmware/bin/thnuclnt -pdir /tmp/vmware-sws/thnuclnt-5444 -fg
+sws       5480  0.0  0.0  98252  6796 tty2     S+   2月11   0:09 /usr/lib/vmware/bin/thnuclnt -pdir /tmp/vmware-sws/thnuclnt-5444 -fg
+sws       5481  0.0  0.0  88264  2720 tty2     S+   2月11   2:39 /usr/lib/vmware/bin/thnuclnt -pdir /tmp/vmware-sws/thnuclnt-5444 -fg
+sws       5483  0.0  0.0  88264  2700 tty2     S+   2月11   0:00 /usr/lib/vmware/bin/thnuclnt -pdir /tmp/vmware-sws/thnuclnt-5444 -fg
+sws       5487  0.0  0.0  88264   840 tty2     S+   2月11   2:50 /usr/lib/vmware/bin/thnuclnt -pdir /tmp/vmware-sws/thnuclnt-5444 -fg
+sws       6035  0.0  0.1 616632 22156 tty2     Sl+  2月11   0:10 update-notifier
+sws       6059  0.0  0.0 787904 14572 tty2     Sl+  2月11   0:00 /usr/lib/deja-dup/deja-dup-monitor
+sws       6073  0.0  0.9 1201068 148804 tty2   Sl+  2月11   5:39 /usr/bin/python /usr/bin/terminator
+root      6161  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop23]
+sws       6176  0.0  0.0  31200  5512 pts/0    Ss+  2月11   0:00 /bin/bash
+sws       6207  0.0  0.0  31072  6328 pts/6    Ss+  2月18   0:00 /bin/bash
+sws       6217  0.0  0.0  31072  6504 pts/7    Ss+  2月18   0:00 /bin/bash
+sws       6226  0.0  0.0  31068  6500 pts/8    Ss+  2月18   0:00 /bin/bash
+root      6442  0.0  0.0      0     0 ?        S<   2月11   0:00 [loop7]
+sws       6586  0.0  0.0  11304  2180 ?        S    2月11   0:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root      6625  0.0  0.0  36376  3364 ?        Ss   2月11   0:00 /usr/lib/bluetooth/bluetoothd
+root      6774  0.0  0.0      0     0 ?        S<   2月13   0:00 [loop24]
+root      7439  0.0  0.0  33572  3712 ?        Ss   06:13   0:00 /lib/systemd/systemd-udevd
+root      7505  0.0  0.0      0     0 ?        S<   2月15   0:00 [loop26]
+root      7679  0.0  0.0 265676  6876 ?        Sl   2月13   0:00 gdm-session-worker [pam/gdm-password]
+root      7926  0.0  0.1 1078516 18012 ?       Ssl  2月15   0:38 /usr/lib/snapd/snapd
+sws       9509  0.0  0.0 205124  5488 tty2     Sl   2月11   0:00 /usr/lib/ibus/ibus-engine-simple
+root     10070  0.0  0.0 265676  6896 ?        Sl   2月11   0:00 gdm-session-worker [pam/gdm-password]
+root     12361  0.0  0.0 265676  7140 ?        Sl   2月11   0:00 gdm-session-worker [pam/gdm-password]
+root     12379  0.0  0.0 265676  6936 ?        Sl   2月11   0:00 gdm-session-worker [pam/gdm-password]
+root     12433  0.0  0.0 265676  7020 ?        Sl   2月11   0:00 gdm-session-worker [pam/gdm-password]
+root     12986  0.0  0.0 265676  8036 ?        Sl   2月18   0:00 gdm-session-worker [pam/gdm-password]
+root     12995  0.0  0.0 265676  8000 ?        Sl   2月18   0:00 gdm-session-worker [pam/gdm-password]
+sws      14246  0.3  1.7 2017360 279720 tty2   SLl+ 2月11  46:29 /opt/google/chrome/chrome
+sws      14253  0.0  0.0  14716   412 tty2     S+   2月11   0:00 cat
+sws      14254  0.0  0.0  14716   444 tty2     S+   2月11   0:00 cat
+sws      14257  0.0  0.1 438532 27312 tty2     S+   2月11   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523,
+sws      14258  0.0  0.0  26600  3408 tty2     S+   2月11   0:00 /opt/google/chrome/nacl_helper
+sws      14261  0.0  0.0 438532 13516 tty2     S+   2月11   0:01 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523,
+sws      14285  0.4  1.5 917800 254600 tty2    Sl+  2月11  60:15 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=369178811912423396,11635406044812215978,131072 --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --gpu-preferences=KAAAAAAAAACAAACAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --service-request-channel-token=4078596066801167550
+sws      14352  0.0  0.1 453652 20636 tty2     S+   2月11   0:00 /opt/google/chrome/chrome --type=-broker
+systemd+ 15083  0.0  0.0  70876  6444 ?        Ss   06:13   0:00 /lib/systemd/systemd-resolved
+systemd+ 15087  0.0  0.0 143976  3260 ?        Ssl  06:13   0:00 /lib/systemd/systemd-timesyncd
+root     15090  0.0  0.1  94924 17668 ?        S<s  06:13   0:00 /lib/systemd/systemd-journald
+sws      15158  0.0  0.0  31764  6864 pts/1    Ss+  2月11   0:04 /bin/bash
+sws      16036  0.1  0.1 383844 19124 ?        S    2月13  16:35 /usr/sbin/smbd --foreground --no-process-group
+root     17598  0.6  0.0      0     0 ?        S    09:26   2:44 [vmware-clk]
+avahi    17862  0.0  0.0  47552  4028 ?        Ss   2月12   2:17 avahi-daemon: running [sws.local]
+avahi    17863  0.0  0.0  47076   348 ?        S    2月12   0:00 avahi-daemon: chroot helper
+root     18891  0.0  0.0 265676  7880 ?        Sl   2月15   0:00 gdm-session-worker [pam/gdm-password]
+root     19788  0.0  0.0 265676  7992 ?        Sl   13:00   0:00 gdm-session-worker [pam/gdm-password]
+root     20154  0.0  0.0      0     0 ?        I    13:17   0:00 [kworker/6:3]
+root     20269  0.0  0.0      0     0 ?        I    13:19   0:00 [kworker/1:2]
+root     20353  0.0  0.0  72296  3504 ?        Ss   2月12   0:00 /usr/sbin/sshd -D
+root     21124  0.0  0.0      0     0 ?        S<   2月14   0:00 [loop13]
+root     22094  0.0  0.0      0     0 ?        I    14:50   0:00 [kworker/6:1]
+sws      22199  1.9  2.4 1139476 408932 tty2   Sl+  14:57   1:36 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=17966821268479785717 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=17966821268479785717 --renderer-client-id=1182 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+sws      22230  0.0  0.4 718584 77432 tty2     Sl+  14:57   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=9282370910096805362 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=9282370910096805362 --renderer-client-id=1184 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+sws      22251  0.0  0.6 808884 110236 tty2    Sl+  14:57   0:02 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=14987351567047706086 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=14987351567047706086 --renderer-client-id=1185 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+root     22307  0.0  0.0      0     0 ?        I    15:01   0:00 [kworker/3:2]
+root     22514  0.0  0.0      0     0 ?        I    15:14   0:00 [kworker/2:2]
+sws      22545  0.4  2.3 1140580 389184 tty2   Sl+  15:16   0:18 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=6325128388859623553 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=6325128388859623553 --renderer-client-id=1192 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+sws      22584  0.3  1.2 884944 202732 tty2    Sl+  15:16   0:11 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=2062122801948038969 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=2062122801948038969 --renderer-client-id=1194 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+sws      22673  0.0  0.5 788808 91164 tty2     Sl+  15:18   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=4319060482871388150 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=4319060482871388150 --renderer-client-id=1196 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+root     22749  0.0  0.0      0     0 ?        S<   2月14   0:00 [loop25]
+root     22817  0.0  0.0      0     0 ?        I    15:22   0:01 [kworker/5:0]
+root     22929  0.0  0.0      0     0 ?        I    15:23   0:00 [kworker/2:1]
+root     22942  0.0  0.0      0     0 ?        I    15:23   0:00 [kworker/0:2]
+root     23002  0.0  0.0      0     0 ?        I    15:25   0:00 [kworker/1:1]
+root     23024  0.0  0.0      0     0 ?        I    15:27   0:00 [kworker/3:0]
+root     23936  0.0  0.0 265676  6900 ?        Sl   2月12   0:00 gdm-session-worker [pam/gdm-password]
+root     23969  0.0  0.0 265676  6848 ?        Sl   2月12   0:00 gdm-session-worker [pam/gdm-password]
+root     23997  0.0  0.0 265676  6956 ?        Sl   2月12   0:00 gdm-session-worker [pam/gdm-password]
+root     24070  0.0  0.0 265676  6796 ?        Sl   2月12   0:00 gdm-session-worker [pam/gdm-password]
+sws      24085  0.0  0.0  29968  4848 pts/4    Ss   2月15   0:00 /bin/bash
+sws      24095  0.0  0.0  16348  3156 pts/4    S+   2月15   0:04 telnet 192.168.1.137
+root     24389  0.0  0.0 265676  8132 ?        Sl   2月19   0:00 gdm-session-worker [pam/gdm-password]
+root     24531  0.0  0.0 265676  7980 ?        Sl   2月19   0:00 gdm-session-worker [pam/gdm-password]
+sws      24633  0.0  0.8 858968 132040 tty2    Sl+  2月12   5:33 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=10792362277982209695 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=10792362277982209695 --renderer-client-id=181 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+root     25630  0.0  0.0      0     0 ?        I    15:40   0:00 [kworker/0:0]
+root     25703  0.0  0.0 265676  7952 ?        Sl   2月14   0:00 gdm-session-worker [pam/gdm-password]
+root     25889  0.0  0.0      0     0 ?        I    15:49   0:00 [kworker/u16:0]
+root     25897  0.0  0.0      0     0 ?        I    15:49   0:00 [kworker/4:0]
+sws      25922  0.0  0.2 688872 48492 tty2     Sl+  15:51   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=15823116379414184229 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=15823116379414184229 --renderer-client-id=1198 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+root     25949  0.0  0.0 265676  8076 ?        Sl   2月14   0:00 gdm-session-worker [pam/gdm-password]
+root     25983  0.0  0.0      0     0 ?        I    15:55   0:00 [kworker/u16:2]
+root     26021  0.0  0.0      0     0 ?        I    16:00   0:00 [kworker/7:1]
+root     26066  0.0  0.0      0     0 ?        I    16:06   0:00 [kworker/5:2]
+root     26219  0.0  0.0      0     0 ?        I    16:10   0:00 [kworker/4:2]
+root     26234  0.0  0.0      0     0 ?        I    16:10   0:00 [kworker/7:2]
+root     26389  0.0  0.0      0     0 ?        I    16:17   0:00 [kworker/3:1]
+root     26413  0.0  0.0      0     0 ?        I    16:18   0:00 [kworker/u16:1]
+root     26414  0.0  0.0      0     0 ?        I    16:18   0:00 [kworker/5:1]
+sws      26454  0.0  0.0   4628   784 pts/3    S+   16:19   0:00 sh while_read_line.sh
+sws      26456  0.0  0.0  46780  3632 pts/3    R+   16:19   0:00 ps aux
+root     27692  0.0  0.0 265676  7896 ?        Sl   2月18   0:00 gdm-session-worker [pam/gdm-password]
+sws      28318  0.0  0.0  31040  5428 pts/2    Ss   2月12   0:00 /bin/bash
+sws      29098  0.0  0.0  31112  6764 pts/5    Ss+  2月18   0:00 /bin/bash
+sws      29574  0.0  0.0 444512  7472 ?        Sl   2月12   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.10 /org/gtk/gvfs/exec_spaw/1
+sws      29588  0.0  0.0 381548  6960 ?        Sl   2月12   0:01 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.10 /org/gtk/gvfs/exec_spaw/3
+sws      29595  0.0  0.0 766468 14616 ?        Sl   2月12   0:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.10 /org/gtk/gvfs/exec_spaw/4
+sws      29736  0.0  0.4 1826392 78260 ?       Sl   2月12   8:39 /opt/XMind ZEN/XMind /home/sws/material/Work/文档/XMind/LinuxX86/中心主题.xmind
+sws      29738  0.0  0.0 360536 12040 ?        S    2月12   0:00 /opt/XMind ZEN/XMind --type=zygote --no-sandbox
+sws      29772  0.0  0.5 532968 87680 ?        Sl   2月12   0:28 /opt/XMind ZEN/XMind --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,23,74 --disable-gl-extensions=GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --gpu-vendor-id=0x10de --gpu-device-id=0x128b --gpu-driver-vendor=NVIDIA --gpu-driver-version=390.77 --gpu-driver-date --service-request-channel-token=5928E83B5CECCDE16037248F79244725
+sws      29782  0.0  0.4 1142428 74304 ?       Sl   2月12   0:03 /opt/XMind ZEN/XMind --type=renderer --no-sandbox --primordial-pipe-token=2BD4F83436F2A07DC102037722CF3598 --lang=zh-CN --app-path=/opt/XMind ZEN/resources/app --node-integration=true --webview-tag=true --no-sandbox --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=2BD4F83436F2A07DC102037722CF3598 --renderer-client-id=4 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+sws      29785  0.0  1.4 2243864 239416 ?      Sl   2月12   2:52 /opt/XMind ZEN/XMind --type=renderer --no-sandbox --primordial-pipe-token=4E5E0A486D0DC62853D8C750E4E139F8 --lang=zh-CN --app-path=/opt/XMind ZEN/resources/app --node-integration=true --webview-tag=true --no-sandbox --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=4E5E0A486D0DC62853D8C750E4E139F8 --renderer-client-id=6 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+sws      30102  0.0  0.0  31380  6660 pts/3    Ss   2月12   0:00 /bin/bash
+sws      30235  0.0  0.0  16348  2440 pts/2    S+   2月12   0:00 telnet 192.168.1.131
+sws      30270  0.0  0.8 849208 139400 tty2    Sl+  2月18   0:57 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=5184520643619156252 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=5184520643619156252 --renderer-client-id=891 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+sws      30347  0.0  0.0 433784  8896 ?        Ssl  2月14   0:00 /usr/bin/zeitgeist-daemon
+sws      30363  0.0  0.0 328500 14508 ?        Ssl  2月14   0:00 /usr/lib/zeitgeist/zeitgeist/zeitgeist-fts
+sws      30428  0.1  1.0 1134936 178056 tty2   Sl+  2月15  11:43 /opt/google/chrome/chrome --type=renderer --field-trial-handle=369178811912423396,11635406044812215978,131072 --service-pipe-token=10041184120729085024 --lang=zh-CN --enable-crash-reporter=be75dc6c-7b0e-49dd-98ce-eaad217d8523, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=10041184120729085024 --renderer-client-id=769 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
