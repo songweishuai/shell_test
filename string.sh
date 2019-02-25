@@ -11,6 +11,7 @@
 # ${string%char} 从右边开始查找第一个char字符或者字符串
 # ${string%%char} 从右边开始查找最后一个char字符或者字符串
 url="http://c.biancheng.net/index.html"
+echo ${#url}
 echo ${url%/*}
 echo ${url%%/*}
 
